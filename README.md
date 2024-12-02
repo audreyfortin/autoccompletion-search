@@ -19,4 +19,4 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/audreyfortin/autocompletion-search.git
-cd autocompletion-search
+
